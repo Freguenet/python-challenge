@@ -1,0 +1,6 @@
+Vote Annalysis 
+Election Results
+---------------------
+Total Votes: 3521001
+---------------------
+O'Tooley: 3% (105630)
